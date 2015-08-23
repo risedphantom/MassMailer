@@ -1,0 +1,52 @@
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\NLog.config
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\MailService.exe.config
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\MailService.exe
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\MailService.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\NLog.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\RazorEngine.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\NLog.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\RazorEngine.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\RazorEngine.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\obj\Debug\MailService.exe
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\obj\Debug\MailService.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Debug\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\obj\Debug\MailService.csprojResolveAssemblyReference.cache
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.exe.config
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\obj\Debug\MailService.exe
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\obj\Debug\MailService.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\NLog.config
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.exe
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\NLog.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\RazorEngine.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\NLog.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\RazorEngine.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\System.Web.Razor.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\System.Web.Razor.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\obj\Debug\MailService.csprojResolveAssemblyReference.cache
+E:\Dev\Project\Visual Studio\MassMailer\bin\Debug\MailService.exe.config
+E:\Dev\Project\Visual Studio\MassMailer\obj\Debug\MailService.exe
+E:\Dev\Project\Visual Studio\MassMailer\obj\Debug\MailService.pdb
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\MailService.exe.config
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\obj\Debug\MailService.exe
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\obj\Debug\MailService.pdb
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\obj\Debug\MailService.csprojResolveAssemblyReference.cache
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\NLog.config
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\MailService.exe
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\MailService.pdb
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\DKIM.Net.dll
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\NLog.dll
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\RazorEngine.dll
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\System.Web.Razor.dll
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\DKIM.Net.pdb
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\NLog.xml
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\RazorEngine.xml
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\System.Web.Razor.xml
+E:\Dev\Project\Visual Studio\MassMailer\MassMailer\bin\Debug\DELICATE_STOP.ps1

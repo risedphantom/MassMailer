@@ -1,0 +1,19 @@
+C:\Users\anpanov.OZON\Documents\Visual Studio 2012\Projects\DKIM.Net-master\DKIM.Net\bin\Release\DKIM.Net.dll
+C:\Users\anpanov.OZON\Documents\Visual Studio 2012\Projects\DKIM.Net-master\DKIM.Net\bin\Release\DKIM.Net.pdb
+C:\Users\anpanov.OZON\Documents\Visual Studio 2012\Projects\DKIM.Net-master\DKIM.Net\obj\Release\DKIM.Net.csprojResolveAssemblyReference.cache
+C:\Users\anpanov.OZON\Documents\Visual Studio 2012\Projects\DKIM.Net-master\DKIM.Net\obj\Release\DKIM.Net.dll
+C:\Users\anpanov.OZON\Documents\Visual Studio 2012\Projects\DKIM.Net-master\DKIM.Net\obj\Release\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DKIM.Net\bin\Release\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DKIM.Net\bin\Release\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DKIM.Net\obj\Release\DKIM.Net.csprojResolveAssemblyReference.cache
+C:\Ozon.Travel\Dev\Tools\MassMailer\DKIM.Net\obj\Release\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DKIM.Net\obj\Release\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\bin\Release\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\bin\Release\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\obj\Release\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\obj\Release\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Release\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Release\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\obj\Release\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\obj\Release\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\obj\Release\DKIM.Net.csprojResolveAssemblyReference.cache

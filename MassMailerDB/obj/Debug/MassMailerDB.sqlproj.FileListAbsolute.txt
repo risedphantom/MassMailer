@@ -1,0 +1,7 @@
+E:\Dev\Project\Visual Studio\MassMailer\MassMailerDB\bin\Debug\MassMailerDB.dacpac
+E:\Dev\Project\Visual Studio\MassMailer\MassMailerDB\obj\Debug\Model.xml
+E:\Dev\Project\Visual Studio\MassMailer\MassMailerDB\obj\Debug\refactor.xml
+E:\Dev\Project\Visual Studio\MassMailer\MassMailerDB\obj\Debug\postdeploy.sql
+E:\Dev\Project\Visual Studio\MassMailer\MassMailerDB\obj\Debug\predeploy.sql
+E:\Dev\Project\Visual Studio\MassMailer\MassMailerDB\obj\Debug\MassMailerDB.dll
+E:\Dev\Project\Visual Studio\MassMailer\MassMailerDB\obj\Debug\MassMailerDB.pdb

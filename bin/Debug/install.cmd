@@ -1,0 +1,1 @@
+C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe /ServiceName="TestMailer" /DisplayName="TEST mass mailer" /i C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.exe

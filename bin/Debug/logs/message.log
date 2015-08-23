@@ -1,0 +1,130 @@
+2015-08-05 16:42:21.3499|INFO|Global|-=START=-
+2015-08-05 16:42:21.4659|DEBUG|Global|Worker thread state = Running
+2015-08-05 16:42:21.4779|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:42:21.4779|DEBUG|Global|Send to zabbix - send: 0, errors: 0
+2015-08-05 16:42:21.4939|DEBUG|Global|Total - send: 0, errors: 0
+2015-08-05 16:42:37.9510|DEBUG|Global|Messages processed - send: 100 + errors: 0
+2015-08-05 16:42:38.3001|DEBUG|Global|Messages processed - send: 200 + errors: 0
+2015-08-05 16:42:38.3382|DEBUG|Global|Messages processed - send: 300 + errors: 0
+2015-08-05 16:42:39.2086|DEBUG|Global|Messages processed - send: 400 + errors: 0
+2015-08-05 16:42:43.0996|DEBUG|Global|Messages processed - send: 500 + errors: 0
+2015-08-05 16:42:48.8621|DEBUG|Global|Messages processed - send: 600 + errors: 0
+2015-08-05 16:42:51.6507|DEBUG|Global|Send to zabbix - send: 600, errors: 0
+2015-08-05 16:42:51.6507|DEBUG|Global|Total - send: 600, errors: 0
+2015-08-05 16:42:56.1983|DEBUG|Global|Messages processed - send: 700 + errors: 0
+2015-08-05 16:42:58.4301|DEBUG|Global|Messages processed - send: 800 + errors: 0
+2015-08-05 16:42:58.9613|DEBUG|Global|Messages processed - send: 900 + errors: 0
+2015-08-05 16:42:59.0263|DEBUG|Global|Messages processed - send: 1000 + errors: 0
+2015-08-05 16:42:59.2353|DEBUG|Global|Messages processed - send: 1100 + errors: 0
+2015-08-05 16:43:01.6596|DEBUG|Global|Messages processed - send: 1200 + errors: 0
+2015-08-05 16:43:04.7296|DEBUG|Global|Messages processed - send: 1300 + errors: 0
+2015-08-05 16:43:07.3964|DEBUG|Global|Messages processed - send: 1400 + errors: 0
+2015-08-05 16:43:09.1537|DEBUG|Global|Messages processed - send: 1500 + errors: 0
+2015-08-05 16:43:10.4489|DEBUG|Global|Messages processed - send: 1600 + errors: 0
+2015-08-05 16:43:13.8188|DEBUG|Global|Messages processed - send: 1700 + errors: 0
+2015-08-05 16:43:15.8041|DEBUG|Global|Messages processed - send: 1800 + errors: 0
+2015-08-05 16:43:17.4330|DEBUG|Global|Messages processed - send: 1900 + errors: 0
+2015-08-05 16:43:17.7411|DEBUG|Global|Messages processed - send: 2000 + errors: 0
+2015-08-05 16:43:18.2185|DEBUG|Global|Messages processed - send: 2100 + errors: 0
+2015-08-05 16:43:18.4130|DEBUG|Global|Messages processed - send: 2200 + errors: 0
+2015-08-05 16:43:19.9997|DEBUG|Global|Messages processed - send: 2300 + errors: 0
+2015-08-05 16:43:20.1075|DEBUG|Global|Messages processed - send: 2400 + errors: 0
+2015-08-05 16:43:21.2615|DEBUG|Global|Messages processed - send: 2500 + errors: 0
+2015-08-05 16:43:21.6528|DEBUG|Global|Send to zabbix - send: 1900, errors: 0
+2015-08-05 16:43:21.6568|DEBUG|Global|Total - send: 2500, errors: 0
+2015-08-05 16:43:23.0551|DEBUG|Global|Messages processed - send: 2600 + errors: 0
+2015-08-05 16:43:24.6506|DEBUG|Global|Messages processed - send: 2700 + errors: 0
+2015-08-05 16:43:26.2734|DEBUG|Global|Messages processed - send: 2800 + errors: 0
+2015-08-05 16:43:26.5332|DEBUG|Global|Messages processed - send: 2900 + errors: 0
+2015-08-05 16:43:27.9048|DEBUG|Global|Messages processed - send: 3000 + errors: 0
+2015-08-05 16:43:29.4976|DEBUG|Global|Messages processed - send: 3100 + errors: 0
+2015-08-05 16:43:31.2369|DEBUG|Global|Messages processed - send: 3200 + errors: 0
+2015-08-05 16:43:32.0541|DEBUG|Global|Messages processed - send: 3300 + errors: 0
+2015-08-05 16:43:33.1928|DEBUG|Global|Messages processed - send: 3400 + errors: 0
+2015-08-05 16:43:34.2568|DEBUG|Global|Messages processed - send: 3500 + errors: 0
+2015-08-05 16:43:34.8583|DEBUG|Global|Messages processed - send: 3600 + errors: 0
+2015-08-05 16:43:34.8993|DEBUG|Global|Messages processed - send: 3700 + errors: 0
+2015-08-05 16:43:36.4827|DEBUG|Global|Messages processed - send: 3800 + errors: 0
+2015-08-05 16:43:41.1060|DEBUG|Global|Messages processed - send: 3900 + errors: 0
+2015-08-05 16:43:43.8227|DEBUG|Global|Messages processed - send: 4000 + errors: 0
+2015-08-05 16:43:43.8467|DEBUG|Global|Messages processed - send: 4100 + errors: 0
+2015-08-05 16:43:43.8729|DEBUG|Global|Messages processed - send: 4200 + errors: 0
+2015-08-05 16:43:44.1517|DEBUG|Global|Messages processed - send: 4300 + errors: 0
+2015-08-05 16:43:46.5795|DEBUG|Global|Messages processed - send: 4400 + errors: 0
+2015-08-05 16:43:49.9524|DEBUG|Global|Messages processed - send: 4500 + errors: 0
+2015-08-05 16:43:51.6671|DEBUG|Global|Send to zabbix - send: 2000, errors: 0
+2015-08-05 16:43:51.6671|DEBUG|Global|Total - send: 4500, errors: 0
+2015-08-05 16:43:53.1050|DEBUG|Global|Messages processed - send: 4600 + errors: 0
+2015-08-05 16:43:55.2304|DEBUG|Global|Messages processed - send: 4700 + errors: 0
+2015-08-05 16:43:56.6285|DEBUG|Global|Messages processed - send: 4800 + errors: 0
+2015-08-05 16:43:58.8281|DEBUG|Global|Messages processed - send: 4900 + errors: 0
+2015-08-05 16:44:01.4808|DEBUG|Global|Messages processed - send: 5000 + errors: 0
+2015-08-05 16:44:03.5067|DEBUG|Global|Messages processed - send: 5100 + errors: 0
+2015-08-05 16:44:03.7098|DEBUG|Global|Messages processed - send: 5200 + errors: 0
+2015-08-05 16:44:04.2015|DEBUG|Global|Messages processed - send: 5300 + errors: 0
+2015-08-05 16:44:04.2935|DEBUG|Global|Messages processed - send: 5400 + errors: 0
+2015-08-05 16:44:05.7421|DEBUG|Global|Messages processed - send: 5500 + errors: 0
+2015-08-05 16:44:06.2965|DEBUG|Global|Messages processed - send: 5600 + errors: 0
+2015-08-05 16:44:07.4484|DEBUG|Global|Messages processed - send: 5700 + errors: 0
+2015-08-05 16:44:11.4957|DEBUG|Global|Messages processed - send: 5800 + errors: 0
+2015-08-05 16:44:12.4460|DEBUG|Global|Messages processed - send: 5900 + errors: 0
+2015-08-05 16:44:14.1128|DEBUG|Global|Messages processed - send: 6000 + errors: 0
+2015-08-05 16:44:14.5305|DEBUG|Global|Messages processed - send: 6100 + errors: 0
+2015-08-05 16:44:21.4370|DEBUG|Global|Messages processed - send: 6200 + errors: 0
+2015-08-05 16:44:21.6700|DEBUG|Global|Send to zabbix - send: 1700, errors: 0
+2015-08-05 16:44:21.6700|DEBUG|Global|Total - send: 6200, errors: 0
+2015-08-05 16:44:23.5888|DEBUG|Global|Messages processed - send: 6300 + errors: 0
+2015-08-05 16:44:25.1397|DEBUG|Global|Messages processed - send: 6400 + errors: 0
+2015-08-05 16:44:26.6805|DEBUG|Global|Messages processed - send: 6500 + errors: 0
+2015-08-05 16:44:29.0227|DEBUG|Global|Messages processed - send: 6600 + errors: 0
+2015-08-05 16:44:29.5307|DEBUG|Global|Messages processed - send: 6700 + errors: 0
+2015-08-05 16:44:30.0620|DEBUG|Global|Messages processed - send: 6800 + errors: 0
+2015-08-05 16:44:30.1321|DEBUG|Global|Messages processed - send: 6900 + errors: 0
+2015-08-05 16:44:32.2936|DEBUG|Global|Messages processed - send: 7000 + errors: 0
+2015-08-05 16:44:37.6864|DEBUG|Global|Messages processed - send: 7100 + errors: 0
+2015-08-05 16:44:40.6787|DEBUG|Global|Messages processed - send: 7200 + errors: 0
+2015-08-05 16:44:41.2278|DEBUG|Global|Messages processed - send: 7300 + errors: 0
+2015-08-05 16:44:41.2668|DEBUG|Global|Messages processed - send: 7400 + errors: 0
+2015-08-05 16:44:41.3098|DEBUG|Global|Messages processed - send: 7500 + errors: 0
+2015-08-05 16:44:44.8177|DEBUG|Global|Messages processed - send: 7600 + errors: 0
+2015-08-05 16:44:48.2158|DEBUG|Global|Messages processed - send: 7700 + errors: 0
+2015-08-05 16:44:51.0433|DEBUG|Global|Messages processed - send: 7800 + errors: 0
+2015-08-05 16:44:51.6811|DEBUG|Global|Send to zabbix - send: 1600, errors: 0
+2015-08-05 16:44:51.6811|DEBUG|Global|Total - send: 7800, errors: 0
+2015-08-05 16:44:53.6186|DEBUG|Global|Messages processed - send: 7900 + errors: 0
+2015-08-05 16:44:54.1351|DEBUG|Global|Messages processed - send: 8000 + errors: 0
+2015-08-05 16:44:55.2644|DEBUG|Global|Messages processed - send: 8100 + errors: 0
+2015-08-05 16:44:57.1438|DEBUG|Global|Messages processed - send: 8200 + errors: 0
+2015-08-05 16:44:58.5133|DEBUG|Global|Messages processed - send: 8300 + errors: 0
+2015-08-05 16:44:58.5793|DEBUG|Global|Messages processed - send: 8400 + errors: 0
+2015-08-05 16:44:59.4895|DEBUG|Global|Messages processed - send: 8500 + errors: 0
+2015-08-05 16:44:59.5715|DEBUG|Global|Messages processed - send: 8600 + errors: 0
+2015-08-05 16:45:00.2908|DEBUG|Global|Messages processed - send: 8700 + errors: 0
+2015-08-05 16:45:00.3238|DEBUG|Global|Messages processed - send: 8800 + errors: 0
+2015-08-05 16:45:00.6459|DEBUG|Global|Messages processed - send: 8900 + errors: 0
+2015-08-05 16:45:01.8841|DEBUG|Global|Messages processed - send: 9000 + errors: 0
+2015-08-05 16:45:02.1841|DEBUG|Global|Messages processed - send: 9100 + errors: 0
+2015-08-05 16:45:02.4545|DEBUG|Global|Messages processed - send: 9200 + errors: 0
+2015-08-05 16:45:02.6275|DEBUG|Global|Messages processed - send: 9300 + errors: 0
+2015-08-05 16:45:03.5397|DEBUG|Global|Messages processed - send: 9400 + errors: 0
+2015-08-05 16:45:03.9048|DEBUG|Global|Messages processed - send: 9500 + errors: 0
+2015-08-05 16:45:04.4560|DEBUG|Global|Messages processed - send: 9600 + errors: 0
+2015-08-05 16:45:04.5450|DEBUG|Global|Messages processed - send: 9700 + errors: 0
+2015-08-05 16:45:04.6290|DEBUG|Global|Messages processed - send: 9800 + errors: 0
+2015-08-05 16:45:04.6530|DEBUG|Global|Messages processed - send: 9900 + errors: 0
+2015-08-05 16:45:04.6560|DEBUG|Global|Messages processed - send: 10000 + errors: 0
+2015-08-05 16:45:07.1512|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:09.1770|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:11.1906|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:13.2044|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:15.2180|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:17.2338|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:19.2493|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:21.2630|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:21.6885|DEBUG|Global|Send to zabbix - send: 2200, errors: 0
+2015-08-05 16:45:21.6925|DEBUG|Global|Total - send: 10000, errors: 0
+2015-08-05 16:45:23.2842|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:25.3012|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:27.3145|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:29.3291|WARN|Global|Unable to turn on DKIM: Could not find a part of the path 'C:\DEV.Ozon.Travel\MassMailer\DKIM'.
+2015-08-05 16:45:29.8583|INFO|Global|-=STOP=-

@@ -1,0 +1,23 @@
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\bin\Debug\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\bin\Debug\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\obj\Debug\DKIM.Net.csprojResolveAssemblyReference.cache
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\obj\Debug\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\DKIM.Net\obj\Debug\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Debug\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Debug\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\obj\Debug\DKIM.Net.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\obj\Debug\DKIM.Net.pdb
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Debug\RazorEngine.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Debug\System.Web.Razor.dll
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Debug\RazorEngine.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\bin\Debug\System.Web.Razor.xml
+C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\DKIM.Net\obj\Debug\DKIM.Net.csprojResolveAssemblyReference.cache
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\bin\Debug\DKIM.Net.dll
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\bin\Debug\DKIM.Net.pdb
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\bin\Debug\RazorEngine.dll
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\bin\Debug\System.Web.Razor.dll
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\bin\Debug\RazorEngine.xml
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\bin\Debug\System.Web.Razor.xml
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\obj\Debug\DKIM.Net.dll
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\obj\Debug\DKIM.Net.pdb
+E:\Dev\Project\Visual Studio\MassMailer\DKIM.Net\obj\Debug\DKIM.Net.csprojResolveAssemblyReference.cache

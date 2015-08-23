@@ -1,0 +1,19 @@
+﻿Installing assembly 'C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.exe'.
+Affected parameters are:
+   assemblypath = C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.exe
+   displayname = TEST mass mailer
+   servicename = TestMailer
+   logtoconsole = 
+   i = 
+   logfile = C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.InstallLog
+Installing service TestMailer...
+Creating EventLog source TestMailer in log Application...
+Rolling back assembly 'C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.exe'.
+Affected parameters are:
+   assemblypath = C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.exe
+   displayname = TEST mass mailer
+   servicename = TestMailer
+   logtoconsole = 
+   i = 
+   logfile = C:\Ozon.Travel\Dev\Tools\MassMailer\DEV\bin\Debug\MailService.InstallLog
+Restoring event log to previous state for source TestMailer.

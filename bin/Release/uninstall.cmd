@@ -1,0 +1,1 @@
+C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe /u C:\Ozon.Travel\Dev\Tools\MassMailer-branch-newcore\bin\Release\MailService.exe

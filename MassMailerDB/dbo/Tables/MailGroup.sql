@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[MailGroup] (
+    [ID]   INT            IDENTITY (1, 1) NOT NULL,
+    [Name] VARCHAR(250) NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC) WITH (FILLFACTOR = 100)
+);
+

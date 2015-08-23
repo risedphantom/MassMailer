@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailService", "MassMailer\MailService.csproj", "{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A} = {1CFB14B2-E0FF-4491-820F-490CFFBAA47A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DKIM.Net", "DKIM.Net\DKIM.Net.csproj", "{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B811E5C4-FFF7-4A31-979B-BBA3EEA07790}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MassMailerDB", "MassMailerDB\MassMailerDB.sqlproj", "{E3A7A91D-C945-4E3A-BFDC-41627617D484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Latest|Any CPU = Latest|Any CPU
+		QA|Any CPU = QA|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.Latest|Any CPU.ActiveCfg = Latest|Any CPU
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.Latest|Any CPU.Build.0 = Latest|Any CPU
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.QA|Any CPU.ActiveCfg = QA|Any CPU
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.QA|Any CPU.Build.0 = QA|Any CPU
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7E4808-B2CE-4800-98AA-69D8BD25CE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.Latest|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.Latest|Any CPU.Build.0 = Release|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.QA|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.QA|Any CPU.Build.0 = Release|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFB14B2-E0FF-4491-820F-490CFFBAA47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Latest|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Latest|Any CPU.Build.0 = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Latest|Any CPU.Deploy.0 = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.QA|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.QA|Any CPU.Build.0 = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.QA|Any CPU.Deploy.0 = Debug|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A7A91D-C945-4E3A-BFDC-41627617D484}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
